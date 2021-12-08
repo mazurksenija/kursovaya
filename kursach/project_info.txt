@@ -1,0 +1,12 @@
+Требования проекта:GoodApp
+Эргономическое,xfgh,12.12.21,12.02.22
+Системное,xfgh,12.12.21,12.02.22
+Архитектурное,fgh,12.12.21,12.02.22
+Системное,fxgh,12.12.21,12.02.22
+jkhkjh,kjbkjhb,jkhkhj,ljkhj
+Команда проекта:
+Мазур,Ксения,Junior Business Analyst
+FXGH,gfhj,Junior Java Developer
+fgj,gfhj,Senior Java Developer
+Заказчики проекта:
+СпортКлуб "Мечта"
